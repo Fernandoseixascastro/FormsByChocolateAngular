@@ -1,0 +1,31 @@
+.mat-card-simples {
+  
+    max-width: 300px;
+    background-color: rgb(17, 105, 182);
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-left: 38%;  }
+  
+  .mat-card-principal {
+    margin-left: 10%;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    padding-left: 5px;
+    background-color: rgb(41, 228, 156);
+    width: 80%;
+    align-items: center;
+
+  }
+  
+  .mat-card-footer {
+    max-width: 300ox;
+    text-align: center;
+  }
+
+  #title {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+  }
